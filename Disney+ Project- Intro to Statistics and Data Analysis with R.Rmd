@@ -12,7 +12,9 @@ We chose to focus on the [titles.csv](https://www.kaggle.com/account/login?title
 [Disney](https://thewaltdisneycompany.com/) was originally founded in 1923, by the two Disney brothers. The company established itself as a leader in the American animation industry before diversifying into live-action film production, television, and theme parks.
 One of the subsidiaries of Disney is Disney+. It is an American subscription video on-demand over-the-top streaming service.
 
-![](https://heroichollywood.com/wp-content/uploads/2019/08/Disney-Logo-When-You-Wish-Upon-A-Star.jpg)
+```{r pressure, echo=FALSE, fig.cap="A caption", out.width = '100%'}
+knitr::include_graphics("Disney logo.JPG")
+```
 
 ## Data Import
 First, We load the relevant libraries.
