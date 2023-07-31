@@ -6,5 +6,7 @@ In this project we handled the different phases of a data analysis project: data
 Our project is based on a data from “Kaggle”: “Disney+ TV Shows and Movies”. This data set was created to list all shows available on Disney+ streaming and analyze the data to find interesting facts. This data was acquired in May 2022 containing data available in the United States.<br><br>
 The project is in RStudio with R.<br><br>
 The project achieved a score of 93. <br><br>
-The project in HTML: <br>
-file:///C:/Users/danab/R%20project/final%20files/Intro_to_Statistics_and_Data_Analysis_Final_Project/Disney+-Project--Intro-to-Statistics-and-Data-Analysis-with-R.html
+Using the R file, you should press the button "Knit", this will create the HTML file.<br><br>
+**A preview of the HTML file:**<br>
+First page:
+![alt text](![image](https://github.com/DanaBraynin/Intro_to_Statistics_and_Data_Analysis_Final_Project/assets/114236961/16510251-11f8-4a3a-be70-274388539cef))
