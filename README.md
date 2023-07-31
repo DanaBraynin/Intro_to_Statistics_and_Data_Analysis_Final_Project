@@ -13,3 +13,4 @@ First page:<br>
 
 **A full preview can be found in the following link:**
 [https://www.canva.com/design/DAFqLoZImho/ZByjxGt9kv70G38wAtP9lw/edit](url)
+<a href="https://www.canva.com/design/DAFqLoZImho/ZByjxGt9kv70G38wAtP9lw/edit">Click here to see the full preview of the project.</a>
