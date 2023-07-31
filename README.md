@@ -12,4 +12,4 @@ First page:
 ![R_project_first_page](https://github.com/DanaBraynin/Intro_to_Statistics_and_Data_Analysis_Final_Project/assets/114236961/2f32021e-872b-4eaf-8841-c6734eb99ab9)<br><br>
 
 **A full preview can be found in the following link:**
-[https://www.canva.com/design/DAFqLoZImho/ZByjxGt9kv70G38wAtP9lw/edit]
+(R project- Disney+)[https://www.canva.com/design/DAFqLoZImho/ZByjxGt9kv70G38wAtP9lw/edit]
