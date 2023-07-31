@@ -9,4 +9,4 @@ The project achieved a score of 93. <br><br>
 Using the R file, you should press the button "Knit", this will create the HTML file.<br><br>
 **A preview of the HTML file:**<br>
 First page:
-![alt text](![image](https://github.com/DanaBraynin/Intro_to_Statistics_and_Data_Analysis_Final_Project/assets/114236961/16510251-11f8-4a3a-be70-274388539cef))
+
