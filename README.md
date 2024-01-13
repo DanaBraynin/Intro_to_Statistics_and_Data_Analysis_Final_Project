@@ -11,4 +11,4 @@ Using the R file, you should press the button "Knit", this will create the HTML 
 First page:<br>
 ![R_project_first_page](https://github.com/DanaBraynin/Intro_to_Statistics_and_Data_Analysis_Final_Project/assets/114236961/2f32021e-872b-4eaf-8841-c6734eb99ab9)<br><br>
 
-**<a href="https://www.canva.com/design/DAFqLoZImho/ZByjxGt9kv70G38wAtP9lw/edit">Click here to see the full preview of the project.</a>**
+**<a href="[https://www.canva.com/design/DAFqLoZImho/ZByjxGt9kv70G38wAtP9lw/edit](https://www.canva.com/design/DAF5wXGeENo/OKkszQONKl2Oyh4VtT_rBA/view?utm_content=DAF5wXGeENo&utm_campaign=designshare&utm_medium=link&utm_source=editor)https://www.canva.com/design/DAF5wXGeENo/OKkszQONKl2Oyh4VtT_rBA/view?utm_content=DAF5wXGeENo&utm_campaign=designshare&utm_medium=link&utm_source=editor">Click here to see the full preview of the project.</a>**
